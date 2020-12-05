@@ -1,0 +1,12 @@
+mount C "D:\Ucheba\Labs\3 sem\Proga\lab2"
+C:
+TASM lab2
+TLINK lab2
+lab2
+TD lab2
+
+
+
+
+
+

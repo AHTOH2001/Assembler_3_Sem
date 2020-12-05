@@ -1,0 +1,12 @@
+mount C "D:\Ucheba\Labs\3 sem\Proga\lab5"
+C:
+TASM lab5vikusha
+TLINK lab5vikusha
+lab5vikusha
+TD lab5vikusha
+
+mount C "D:\Ucheba\Labs\3 sem\Proga\lab6"
+C:
+TASM lab6slava
+TLINK lab6slava
+TD lab6slava
