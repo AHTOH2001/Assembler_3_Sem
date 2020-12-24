@@ -1,0 +1,4 @@
+﻿  lab7.cpp
+D:\Ucheba\Labs\3 sem\Proga\lab7\lab7\lab7.cpp(162,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Ucheba\Labs\3 sem\Proga\lab7\lab7\lab7.cpp(222,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab7.vcxproj -> D:\Ucheba\Labs\3 sem\Proga\lab7\Debug\lab7.exe
